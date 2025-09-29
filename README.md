@@ -6,7 +6,13 @@ LATTICE: Scalable High-Fidelity 3D Generation via ?
 [https://3d.hunyuan.tencent.com/](https://3d.hunyuan.tencent.com/)
 
 
-### TODO
+## News
+
+- Sep 16: Release Hunyuan3D 3.0, [System Card](assets/s.pdf).
+- April 23: Release Hunyuan3D 2.5, [Technical Report](assets/Hunyuan3D_2_5_Technical_Report.pdf).
+
+
+## TODO
 - [ ] Technical report.
 
 ## Citation
